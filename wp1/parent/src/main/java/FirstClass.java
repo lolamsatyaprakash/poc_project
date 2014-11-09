@@ -20,7 +20,7 @@ public class FirstClass {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello my dear poc im nearing the goal");
+		System.out.println("Hello my dear poc im nearing the goal completing the sample");
 
 	}
 
